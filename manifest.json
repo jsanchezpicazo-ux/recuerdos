@@ -1,0 +1,11 @@
+{
+  "name": "Recuerdos — Diario de viajes",
+  "short_name": "Recuerdos",
+  "description": "Guarda fotos, vinos, restaurantes y notas de voz de tus viajes.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F3E8D8",
+  "theme_color": "#6B2C1E",
+  "lang": "es"
+}
